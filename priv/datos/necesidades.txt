@@ -1,0 +1,1 @@
+%SistemaEmergencias.Modelos.Necesidad{id: "NEED001", tipo: :agua, descripcion: "Agua urgente para albergue", cantidad: 30, zona: "Zona Centro", prioridad: :critica, responsable: "admin", estado: :pendiente}

@@ -1,0 +1,1 @@
+%SistemaEmergencias.Modelos.Usuario{id: 1, nombre_usuario: "admin", contraseña: "1234", nombre_completo: "admin", tipo: :coordinador, zona_principal: "Zona Centro", estado: :conectado}

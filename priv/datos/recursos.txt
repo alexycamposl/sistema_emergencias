@@ -1,0 +1,2 @@
+%SistemaEmergencias.Modelos.Recurso{codigo: "R_AGUA", nombre: "Agua Potable", categoria: :hidratacion, cantidad_disponible: 50, unidad: "litros", ubicacion: "Punto_Centro"}
+%SistemaEmergencias.Modelos.Recurso{codigo: "R_TEST_01", nombre: "Agua Embotellada", categoria: "hidratacion", cantidad_disponible: 20, unidad: "litros", ubicacion: "centro_1"}
