@@ -1,1 +1,3 @@
+%SistemaEmergencias.Modelos.Necesidad{id: "NEED003", tipo: :agua, descripcion: "alto consumo", cantidad: 2, zona: "sur", prioridad: :alta, responsable: "andres", estado: :pendiente}
+%SistemaEmergencias.Modelos.Necesidad{id: "NEED002", tipo: :agua, descripcion: "Agua urgente para albergue", cantidad: 30, zona: "Zona Centro", prioridad: :critica, responsable: "admin", estado: :pendiente}
 %SistemaEmergencias.Modelos.Necesidad{id: "NEED001", tipo: :agua, descripcion: "Agua urgente para albergue", cantidad: 30, zona: "Zona Centro", prioridad: :critica, responsable: "admin", estado: :pendiente}
