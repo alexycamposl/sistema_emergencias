@@ -11,7 +11,7 @@ defmodule SistemaEmergencias.Procesos.ServidorRecursos do
   # API PÚBLICA / CLIENTE
   # ==========================================
 
-  @doc "Inicia el GenServer registrado globalmente bajo el módulo actual."
+  @doc " Inicia el GenServer registrado globalmente bajo el módulo actual."
   def start_link(opts \\ []) do
     GenServer.start_link(__MODULE__, :ok, Keyword.merge([name: __MODULE__], opts))
   end
@@ -26,7 +26,7 @@ defmodule SistemaEmergencias.Procesos.ServidorRecursos do
     GenServer.call(__MODULE__, {:consultar, codigo_recurso})
   end
 
-  @doc "Recarga el estado en memoria desde el almacenamiento persistente (.txt)."
+  @doc "Recarga  el estado en memoria desde el almacenamiento persistente (.txt)."
   def recargar_inventario do
     GenServer.cast(__MODULE__, :recargar)
   end

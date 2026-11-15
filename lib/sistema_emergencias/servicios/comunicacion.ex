@@ -1,6 +1,6 @@
 defmodule SistemaEmergencias.Servicios.Comunicacion do
   @moduledoc """
-  Servicio para la comunicación entre familiares y registro de mensajes.
+  Servicio  para la comunicación entre familiares y registro de mensajes.
   """
 
   alias SistemaEmergencias.Modelos.Mensaje
