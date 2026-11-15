@@ -1,2 +1,3 @@
+%SistemaEmergencias.Modelos.Mensaje{id: 3, fecha: "2026-11-15", remitente: "Carlos Pérez", destinatario: "1094888999", contenido: "Hola María, me encuentro en el Albergue Central a salvo.", estado: :pendiente}
 %SistemaEmergencias.Modelos.Mensaje{id: 2, fecha: "2026-11-13", remitente: "Carlos Pérez", destinatario: "1094888999", contenido: "Hola María, me encuentro en el Albergue Central a salvo.", estado: :pendiente}
 %SistemaEmergencias.Modelos.Mensaje{id: 1, fecha: "2026-11-09", remitente: "Carlos Pérez", destinatario: "1094888999", contenido: "Hola María, me encuentro a salvo en el Albergue Central.", estado: :pendiente}
