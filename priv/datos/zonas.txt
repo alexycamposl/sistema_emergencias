@@ -1,2 +1,3 @@
+%SistemaEmergencias.Modelos.Zona{id: 3, nombre: "Zona Centro", nivel_afectacion: :critico, sectores: [%{nombre: "Sector Plaza", personas_afectadas: 150}, %{nombre: "Sector Hospital", subsectores: [%{nombre: "Punto Urgencias", personas_afectadas: 80}]}]}
 %SistemaEmergencias.Modelos.Zona{id: 2, nombre: "Zona Centro", nivel_afectacion: :critico, sectores: [%{nombre: "Sector Plaza", personas_afectadas: 150}, %{nombre: "Sector Hospital", subsectores: [%{nombre: "Punto Urgencias", personas_afectadas: 80}]}]}
 %SistemaEmergencias.Modelos.Zona{id: 1, nombre: "Zona Centro", nivel_afectacion: :critico, sectores: [%{nombre: "Sector Plaza", personas_afectadas: 150}, %{nombre: "Sector Hospital", subsectores: [%{nombre: "Punto Urgencias", personas_afectadas: 80}]}]}
